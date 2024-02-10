@@ -1,0 +1,8 @@
+body {
+  background: gold;
+}
+#nppLogo {
+  content: url('https://duckduckgo.com/i/d61418986e4b4ad8.png');
+  width: 68px;
+  height: 58px;
+}
