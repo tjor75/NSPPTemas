@@ -1,0 +1,11 @@
+.w3-indigo, .w3-hover-indigo:hover {
+  background-color: #e2211c !important;
+}
+.w3-border-indigo {
+  border-color: #e24944 !important;
+}
+#nppLogo {
+  content: url('https://duckduckgo.com/i/deb7b2042f76bb5f.png');
+  width: 68px;
+  height: 58px;
+}
