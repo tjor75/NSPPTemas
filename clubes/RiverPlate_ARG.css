@@ -1,10 +1,16 @@
+/*
+* Tema de River Plate (Argentina)
+* por Lucas Tjor (tjor75)
+* UNLICENSED - github.com/tjor75/NSPPTemas
+*/
+
 .w3-indigo, .w3-hover-indigo:hover {
   background-color: #e2211c !important;
 }
 .w3-border-indigo {
   border-color: #e24944 !important;
 }
-#nppLogo {
+#nsppLogo {
   content: url('https://duckduckgo.com/i/deb7b2042f76bb5f.png');
   width: 68px;
   height: 58px;

@@ -1,7 +1,13 @@
+/*
+* Tema de Boca Juniors
+* por Lucas Tjor (tjor75)
+* UNLICENSED - github.com/tjor75/NSPPTemas
+*/
+
 body {
   background: gold;
 }
-#nppLogo {
+#nsppLogo {
   content: url('https://duckduckgo.com/i/d61418986e4b4ad8.png');
   width: 68px;
   height: 58px;
